@@ -1,2 +1,2 @@
 # Wordpress-Checker
-buat ngecek wordpres dari list kamu
+buat ngecek wordpress dari list kamu
